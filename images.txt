@@ -1,2 +1,3 @@
 martialbe/one-api:latest
 alpine
+justsong/one-api
