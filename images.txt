@@ -1,4 +1,4 @@
 martialbe/one-api:latest
 alpine
 justsong/one-api
-mobile-security-framework-mobsf
+opensecurity/mobile-security-framework-mobsf
