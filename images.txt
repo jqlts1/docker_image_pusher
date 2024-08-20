@@ -2,4 +2,4 @@ martialbe/one-api:latest
 alpine
 justsong/one-api
 opensecurity/mobile-security-framework-mobsf
-ankane/pgvector:v0.5.0
+pgvector/pgvector:0.7.0-pg15
