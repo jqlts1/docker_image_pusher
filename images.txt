@@ -1,11 +1,11 @@
 martialbe/one-api:latest
 alpine
 mysql:8.2.0
-python:3.11-slim
 justsong/one-api
 opensecurity/mobile-security-framework-mobsf
 pgvector/pgvector:0.7.0-pg15
 langgenius/dify-api:0.9.1
+python:3.11-slim
 langgenius/dify-web:0.9.1
 postgres:15-alpine
 redis:6-alpine
