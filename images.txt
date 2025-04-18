@@ -1,3 +1,4 @@
 mysql:8.2.0
 martialbe/one-api:latest
 redis:latest
+docker.n8n.io/n8nio/n8n
