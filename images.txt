@@ -2,6 +2,8 @@ mysql:8.2.0
 martialbe/one-api:latest
 redis:latest
 docker.n8n.io/n8nio/n8n
+n8nio/n8n:latest
+postgres:latest
 node:18-alpine
 node:20-alpine
 node:22-alpine
