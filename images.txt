@@ -1,9 +1,9 @@
 mysql:8.2.0
 martialbe/one-api:latest
 redis:latest
-docker.n8n.io/n8nio/n8n
 n8nio/n8n:latest
 n8nio/n8n:next
+gemini-balance:latest
 postgres:latest
 node:22-alpine
 python:3.12-slim
