@@ -3,7 +3,6 @@ martialbe/one-api:latest
 redis:latest
 n8nio/n8n:latest
 n8nio/n8n:next
-gemini-balance:latest
 postgres:latest
 node:22-alpine
 python:3.12-slim
